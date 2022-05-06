@@ -1,0 +1,31 @@
+body{
+    /* width: 500px; */
+    margin:135px 100px 100px 100px;
+    text-align: center;
+    padding-top: 100 px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+input{
+    text-align: center;
+    width: 30px;
+}
+
+.inc{
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    background-color:lightgreen ;
+
+}
+
+.dec{
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    background-color:red ;
+}
